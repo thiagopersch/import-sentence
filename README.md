@@ -14,7 +14,7 @@ O Projeto de Integração TOTVS é uma plataforma desenvolvida para auxiliar a e
 ## Tecnologias Utilizadas
 
 - Backend: Node.js com Express e TypeORM
-- Frontend: [Vue.js](https://vuetifyjs.com/en/introduction/why-vuetify/)
+- Frontend: [Vue.js](https://vuetifyjs.com/en/introduction/why-vuetify/) and [Framework](https://nuxt.com/docs/guide/directory-structure/nuxt.config)
 
 ## Funcionalidades Principais
 
